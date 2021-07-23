@@ -1,0 +1,286 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.periodictable1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:5:5-138:19
+12        android:allowBackup="true"
+12-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\Lenovo\.gradle\caches\transforms-2\files-2.1\cc5e9dcdc56dc39042f72c501235e83f\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.PeriodicTable1" >
+20-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:11:9-52
+21        <activity
+21-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:12:9-16:20
+22            android:name="com.example.periodictable1.Elements_list"
+22-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:13:13-42
+23            android:label="@string/title_activity_elements_list"
+23-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:14:13-65
+24            android:theme="@style/Theme.PeriodicTable1.NoActionBar" >
+24-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:15:13-68
+25        </activity>
+26        <activity
+26-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:17:9-20:71
+27            android:name="com.example.periodictable1.Zinc"
+27-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:18:13-33
+28            android:label="@string/title_activity_zinc"
+28-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:19:13-56
+29            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+29-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:20:13-68
+30        <activity
+30-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:21:9-24:71
+31            android:name="com.example.periodictable1.Copper"
+31-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:22:13-35
+32            android:label="@string/title_activity_copper"
+32-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:23:13-58
+33            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+33-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:24:13-68
+34        <activity
+34-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:25:9-28:71
+35            android:name="com.example.periodictable1.Nickel"
+35-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:26:13-35
+36            android:label="@string/title_activity_nickel"
+36-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:27:13-58
+37            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+37-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:28:13-68
+38        <activity
+38-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:29:9-32:71
+39            android:name="com.example.periodictable1.Cobalt"
+39-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:30:13-35
+40            android:label="@string/title_activity_cobalt"
+40-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:31:13-58
+41            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+41-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:32:13-68
+42        <activity
+42-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:33:9-36:71
+43            android:name="com.example.periodictable1.Iron"
+43-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:34:13-33
+44            android:label="@string/title_activity_iron"
+44-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:35:13-56
+45            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+45-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:36:13-68
+46        <activity
+46-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:37:9-40:71
+47            android:name="com.example.periodictable1.Potassium"
+47-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:38:13-38
+48            android:label="@string/title_activity_potassium"
+48-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:39:13-61
+49            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+49-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:40:13-68
+50        <activity
+50-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:41:9-44:71
+51            android:name="com.example.periodictable1.Manganese"
+51-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:42:13-38
+52            android:label="@string/title_activity_manganese"
+52-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:43:13-61
+53            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+53-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:44:13-68
+54        <activity
+54-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:45:9-48:71
+55            android:name="com.example.periodictable1.Chromium"
+55-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:46:13-37
+56            android:label="@string/title_activity_chromium"
+56-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:47:13-60
+57            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+57-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:48:13-68
+58        <activity
+58-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:49:9-52:71
+59            android:name="com.example.periodictable1.Vanadium"
+59-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:50:13-37
+60            android:label="@string/title_activity_vanadium"
+60-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:51:13-60
+61            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+61-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:52:13-68
+62        <activity
+62-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:53:9-56:71
+63            android:name="com.example.periodictable1.Titanium"
+63-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:54:13-37
+64            android:label="@string/title_activity_titanium"
+64-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:55:13-60
+65            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+65-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:56:13-68
+66        <activity
+66-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:57:9-60:71
+67            android:name="com.example.periodictable1.Scandium"
+67-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:58:13-37
+68            android:label="@string/title_activity_scandium"
+68-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:59:13-60
+69            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+69-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:60:13-68
+70        <activity
+70-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:61:9-64:71
+71            android:name="com.example.periodictable1.Calcium"
+71-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:62:13-36
+72            android:label="@string/title_activity_calcium"
+72-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:63:13-59
+73            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+73-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:64:13-68
+74        <activity
+74-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:65:9-68:71
+75            android:name="com.example.periodictable1.Argon"
+75-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:66:13-34
+76            android:label="@string/title_activity_argon"
+76-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:67:13-57
+77            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+77-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:68:13-68
+78        <activity
+78-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:69:9-72:71
+79            android:name="com.example.periodictable1.Chlorine"
+79-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:70:13-37
+80            android:label="@string/title_activity_chlorine"
+80-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:71:13-60
+81            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+81-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:72:13-68
+82        <activity
+82-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:73:9-76:71
+83            android:name="com.example.periodictable1.Sulfur"
+83-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:74:13-35
+84            android:label="@string/title_activity_sulfur"
+84-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:75:13-58
+85            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+85-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:76:13-68
+86        <activity
+86-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:77:9-80:71
+87            android:name="com.example.periodictable1.Phosphorus"
+87-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:78:13-39
+88            android:label="@string/title_activity_phosphorus"
+88-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:79:13-62
+89            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+89-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:80:13-68
+90        <activity
+90-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:81:9-84:71
+91            android:name="com.example.periodictable1.Silicon"
+91-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:82:13-36
+92            android:label="@string/title_activity_silicon"
+92-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:83:13-59
+93            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+93-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:84:13-68
+94        <activity
+94-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:85:9-88:71
+95            android:name="com.example.periodictable1.Aluminum"
+95-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:86:13-37
+96            android:label="@string/title_activity_aluminum"
+96-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:87:13-60
+97            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+97-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:88:13-68
+98        <activity
+98-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:89:9-92:71
+99            android:name="com.example.periodictable1.Magnesium"
+99-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:90:13-38
+100            android:label="@string/title_activity_magnesium"
+100-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:91:13-61
+101            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+101-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:92:13-68
+102        <activity
+102-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:93:9-96:71
+103            android:name="com.example.periodictable1.Sodium"
+103-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:94:13-35
+104            android:label="@string/title_activity_sodium"
+104-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:95:13-58
+105            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+105-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:96:13-68
+106        <activity
+106-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:97:9-100:71
+107            android:name="com.example.periodictable1.Neon"
+107-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:98:13-33
+108            android:label="@string/title_activity_neon"
+108-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:99:13-56
+109            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+109-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:100:13-68
+110        <activity
+110-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:101:9-104:71
+111            android:name="com.example.periodictable1.Fluorine"
+111-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:102:13-37
+112            android:label="@string/title_activity_fluorine"
+112-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:103:13-60
+113            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+113-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:104:13-68
+114        <activity
+114-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:105:9-108:71
+115            android:name="com.example.periodictable1.Oxygen"
+115-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:106:13-35
+116            android:label="@string/title_activity_oxygen"
+116-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:107:13-58
+117            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+117-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:108:13-68
+118        <activity
+118-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:109:9-112:71
+119            android:name="com.example.periodictable1.Nitrogen"
+119-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:110:13-37
+120            android:label="@string/title_activity_nitrogen"
+120-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:111:13-60
+121            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+121-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:112:13-68
+122        <activity
+122-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:113:9-116:71
+123            android:name="com.example.periodictable1.Carbon"
+123-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:114:13-35
+124            android:label="@string/title_activity_carbon"
+124-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:115:13-58
+125            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+125-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:116:13-68
+126        <activity
+126-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:117:9-120:71
+127            android:name="com.example.periodictable1.Boron"
+127-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:118:13-34
+128            android:label="@string/title_activity_boron"
+128-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:119:13-57
+129            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+129-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:120:13-68
+130        <activity
+130-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:121:9-124:71
+131            android:name="com.example.periodictable1.Beryllium"
+131-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:122:13-38
+132            android:label="@string/title_activity_beryllium"
+132-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:123:13-61
+133            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+133-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:124:13-68
+134        <activity
+134-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:125:9-128:71
+135            android:name="com.example.periodictable1.Lithium"
+135-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:126:13-36
+136            android:label="@string/title_activity_lithium"
+136-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:127:13-59
+137            android:theme="@style/Theme.PeriodicTable1.NoActionBar" />
+137-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:128:13-68
+138        <activity android:name="com.example.periodictable1.Helium" />
+138-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:129:9-44
+138-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:129:19-41
+139        <activity android:name="com.example.periodictable1.Hydrogen" />
+139-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:130:9-46
+139-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:130:19-43
+140        <activity android:name="com.example.periodictable1.MainActivity" >
+140-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:131:9-137:20
+140-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:131:19-47
+141            <intent-filter>
+141-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:132:13-136:29
+142                <action android:name="android.intent.action.MAIN" />
+142-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:133:17-69
+142-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:133:25-66
+143
+144                <category android:name="android.intent.category.LAUNCHER" />
+144-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:135:17-77
+144-->C:\Users\Lenovo\Desktop\Periodex-v0.2-master\app\src\main\AndroidManifest.xml:135:27-74
+145            </intent-filter>
+146        </activity>
+147    </application>
+148
+149</manifest>

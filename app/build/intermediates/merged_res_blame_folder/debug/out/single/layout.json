@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_elements_list.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\content_elements_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_carbon.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_carbon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_chromium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_chromium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_elements_list.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\activity_elements_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_iron.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_iron.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_chlorine.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_chlorine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_magnesium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_magnesium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_phosphorus.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_phosphorus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_beryllium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_beryllium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_argon.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_argon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_neon.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_neon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_manganese.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_manganese.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_potassium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_potassium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_cobalt.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_cobalt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_fluorine.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_fluorine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_sodium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_sodium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_sulfur.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_sulfur.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_titanium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_titanium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_zinc.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_zinc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_nitrogen.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_nitrogen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_helium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_helium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_silicon.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_silicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\options_dialog.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\options_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_vanadium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_vanadium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_nickel.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_nickel.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_aluminum.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_aluminum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_hydrogen.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_hydrogen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_copper.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_copper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_oxygen.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_oxygen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_boron.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_boron.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_scandium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_scandium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_calcium.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_calcium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\elements_lithum.xml",
+        "source": "C:\\Users\\Lenovo\\Desktop\\Periodex-v0.2-master\\app\\src\\main\\res\\layout\\elements_lithum.xml"
+    }
+]

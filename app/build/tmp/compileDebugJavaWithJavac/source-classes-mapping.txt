@@ -1,0 +1,146 @@
+com/example/periodictable1/databinding/ElementsSulfurBinding.java
+ com.example.periodictable1.databinding.ElementsSulfurBinding
+com/example/periodictable1/Chromium.java
+ com.example.periodictable1.Chromium
+com/example/periodictable1/databinding/ElementsMagnesiumBinding.java
+ com.example.periodictable1.databinding.ElementsMagnesiumBinding
+com/example/periodictable1/databinding/ElementsBoronBinding.java
+ com.example.periodictable1.databinding.ElementsBoronBinding
+com/example/periodictable1/databinding/ElementsPhosphorusBinding.java
+ com.example.periodictable1.databinding.ElementsPhosphorusBinding
+com/example/periodictable1/databinding/ElementsNitrogenBinding.java
+ com.example.periodictable1.databinding.ElementsNitrogenBinding
+com/example/periodictable1/Nitrogen.java
+ com.example.periodictable1.Nitrogen
+com/example/periodictable1/databinding/ElementsCalciumBinding.java
+ com.example.periodictable1.databinding.ElementsCalciumBinding
+com/example/periodictable1/Carbon.java
+ com.example.periodictable1.Carbon
+com/example/periodictable1/FirstFragment.java
+ com.example.periodictable1.FirstFragment
+ com.example.periodictable1.FirstFragment$1
+com/example/periodictable1/Calcium.java
+ com.example.periodictable1.Calcium
+com/example/periodictable1/Oxygen.java
+ com.example.periodictable1.Oxygen
+com/example/periodictable1/databinding/ElementsFluorineBinding.java
+ com.example.periodictable1.databinding.ElementsFluorineBinding
+com/example/periodictable1/aboutUs.java
+ com.example.periodictable1.aboutUs
+ com.example.periodictable1.aboutUs$1
+com/example/periodictable1/Manganese.java
+ com.example.periodictable1.Manganese
+com/example/periodictable1/databinding/FragmentSecondBinding.java
+ com.example.periodictable1.databinding.FragmentSecondBinding
+com/example/periodictable1/BuildConfig.java
+ com.example.periodictable1.BuildConfig
+com/example/periodictable1/databinding/ElementsChromiumBinding.java
+ com.example.periodictable1.databinding.ElementsChromiumBinding
+com/example/periodictable1/databinding/ElementsChlorineBinding.java
+ com.example.periodictable1.databinding.ElementsChlorineBinding
+com/example/periodictable1/databinding/ContentElementsListBinding.java
+ com.example.periodictable1.databinding.ContentElementsListBinding
+com/example/periodictable1/databinding/ElementsCarbonBinding.java
+ com.example.periodictable1.databinding.ElementsCarbonBinding
+com/example/periodictable1/Copper.java
+ com.example.periodictable1.Copper
+com/example/periodictable1/Scandium.java
+ com.example.periodictable1.Scandium
+com/example/periodictable1/Vanadium.java
+ com.example.periodictable1.Vanadium
+com/example/periodictable1/databinding/ActivityMainBinding.java
+ com.example.periodictable1.databinding.ActivityMainBinding
+com/example/periodictable1/Phosphorus.java
+ com.example.periodictable1.Phosphorus
+com/example/periodictable1/Argon.java
+ com.example.periodictable1.Argon
+com/example/periodictable1/Nickel.java
+ com.example.periodictable1.Nickel
+com/example/periodictable1/databinding/ElementsScandiumBinding.java
+ com.example.periodictable1.databinding.ElementsScandiumBinding
+com/example/periodictable1/databinding/ElementsArgonBinding.java
+ com.example.periodictable1.databinding.ElementsArgonBinding
+com/example/periodictable1/Magnesium.java
+ com.example.periodictable1.Magnesium
+com/example/periodictable1/Lithium.java
+ com.example.periodictable1.Lithium
+com/example/periodictable1/Beryllium.java
+ com.example.periodictable1.Beryllium
+com/example/periodictable1/databinding/ElementsVanadiumBinding.java
+ com.example.periodictable1.databinding.ElementsVanadiumBinding
+com/example/periodictable1/Sodium.java
+ com.example.periodictable1.Sodium
+com/example/periodictable1/Sulfur.java
+ com.example.periodictable1.Sulfur
+com/example/periodictable1/databinding/ElementsBerylliumBinding.java
+ com.example.periodictable1.databinding.ElementsBerylliumBinding
+com/example/periodictable1/databinding/ElementsNeonBinding.java
+ com.example.periodictable1.databinding.ElementsNeonBinding
+com/example/periodictable1/databinding/ElementsPotassiumBinding.java
+ com.example.periodictable1.databinding.ElementsPotassiumBinding
+com/example/periodictable1/MainActivity.java
+ com.example.periodictable1.MainActivity
+com/example/periodictable1/Boron.java
+ com.example.periodictable1.Boron
+com/example/periodictable1/Cobalt.java
+ com.example.periodictable1.Cobalt
+com/example/periodictable1/databinding/ElementsSodiumBinding.java
+ com.example.periodictable1.databinding.ElementsSodiumBinding
+com/example/periodictable1/databinding/ElementsHeliumBinding.java
+ com.example.periodictable1.databinding.ElementsHeliumBinding
+com/example/periodictable1/databinding/ElementsManganeseBinding.java
+ com.example.periodictable1.databinding.ElementsManganeseBinding
+com/example/periodictable1/databinding/ElementsLithumBinding.java
+ com.example.periodictable1.databinding.ElementsLithumBinding
+com/example/periodictable1/SecondFragment.java
+ com.example.periodictable1.SecondFragment
+ com.example.periodictable1.SecondFragment$1
+com/example/periodictable1/Titanium.java
+ com.example.periodictable1.Titanium
+com/example/periodictable1/databinding/ElementsTitaniumBinding.java
+ com.example.periodictable1.databinding.ElementsTitaniumBinding
+com/example/periodictable1/Chlorine.java
+ com.example.periodictable1.Chlorine
+com/example/periodictable1/databinding/FragmentFirstBinding.java
+ com.example.periodictable1.databinding.FragmentFirstBinding
+com/example/periodictable1/databinding/ElementsZincBinding.java
+ com.example.periodictable1.databinding.ElementsZincBinding
+com/example/periodictable1/Fluorine.java
+ com.example.periodictable1.Fluorine
+com/example/periodictable1/databinding/ElementsCopperBinding.java
+ com.example.periodictable1.databinding.ElementsCopperBinding
+com/example/periodictable1/Potassium.java
+ com.example.periodictable1.Potassium
+com/example/periodictable1/Silicon.java
+ com.example.periodictable1.Silicon
+com/example/periodictable1/databinding/ElementsIronBinding.java
+ com.example.periodictable1.databinding.ElementsIronBinding
+com/example/periodictable1/databinding/ElementsNickelBinding.java
+ com.example.periodictable1.databinding.ElementsNickelBinding
+com/example/periodictable1/Iron.java
+ com.example.periodictable1.Iron
+com/example/periodictable1/databinding/ElementsOxygenBinding.java
+ com.example.periodictable1.databinding.ElementsOxygenBinding
+com/example/periodictable1/Helium.java
+ com.example.periodictable1.Helium
+com/example/periodictable1/databinding/ElementsHydrogenBinding.java
+ com.example.periodictable1.databinding.ElementsHydrogenBinding
+com/example/periodictable1/Neon.java
+ com.example.periodictable1.Neon
+com/example/periodictable1/Zinc.java
+ com.example.periodictable1.Zinc
+com/example/periodictable1/databinding/ElementsCobaltBinding.java
+ com.example.periodictable1.databinding.ElementsCobaltBinding
+com/example/periodictable1/databinding/ActivityElementsListBinding.java
+ com.example.periodictable1.databinding.ActivityElementsListBinding
+com/example/periodictable1/databinding/ElementsSiliconBinding.java
+ com.example.periodictable1.databinding.ElementsSiliconBinding
+com/example/periodictable1/Hydrogen.java
+ com.example.periodictable1.Hydrogen
+com/example/periodictable1/Elements_list.java
+ com.example.periodictable1.Elements_list
+com/example/periodictable1/databinding/ElementsAluminumBinding.java
+ com.example.periodictable1.databinding.ElementsAluminumBinding
+com/example/periodictable1/Aluminum.java
+ com.example.periodictable1.Aluminum
+ com.example.periodictable1.Aluminum$1

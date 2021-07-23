@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="409dp"
+    android:layout_height="729dp"
+    android:layout_gravity="center"
+    android:background="@drawable/bg"
+    tools:context=".Elements_list">
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="403dp"
+        android:layout_height="154dp"
+        android:layout_centerHorizontal="false"
+        android:gravity="center_horizontal|top"
+
+
+        android:text="@string/periodex"
+        android:textColor="@color/white"
+        android:textSize="100sp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.275" />
+
+    <Button
+        android:id="@+id/button_start"
+        android:layout_width="157dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="28dp"
+        android:text="@string/start"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Title" />
+
+    <Button
+        android:id="@+id/button_aboutus"
+        android:layout_width="157dp"
+        android:layout_height="50dp"
+        android:text="@string/about_us"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_start"
+        app:layout_constraintVertical_bias="0.034" />
+
+    <Button
+        android:id="@+id/button_quit"
+        android:layout_width="157dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="152dp"
+        android:text="@string/quit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_aboutus"
+        app:layout_constraintVertical_bias="0.21" />
+
+    Button
+    android:id="@+id/button_options"
+    android:layout_width="157dp"
+    android:layout_height="50dp"
+    android:text="@string/options"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/button_aboutus"
+    app:layout_constraintVertical_bias="0.159" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
